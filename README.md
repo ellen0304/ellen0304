@@ -26,9 +26,9 @@
 ---
 ### 📫 Contato
 
-[![LinkedIn]
 
-[![Email]
+
+ellenflavia72@gmail.com
 
 -----
 ### 🐍 Curiosidade Python!
