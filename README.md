@@ -17,11 +17,6 @@
 </p>
 
 ---
-### 🎯 Em andamento
-
-- [x] Projeto RS - Rota Segura
-- [ ] Adicionar simulações com obstáculos
-- [ ] Criar interface mais amigável para usuários do campus
 
 ---
 ### 📫 Contato
